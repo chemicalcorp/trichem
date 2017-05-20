@@ -1,1 +1,1 @@
-Chemical Corp
+Chemical corp Pvt Ltd
