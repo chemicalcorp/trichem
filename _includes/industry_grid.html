@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="row text-center">
-            {% for industry in site.posts %} {% for i in industry.industries %}
+            {% for i in site.industries %}
             <div class="col-md-4">
                 <a href="#portfolioModal{{ i.id }}" data-toggle="modal">
                     <div class="square" style="background-image: url('/img/{{i.image}}'); background-position: center; background-repeat:no-repeat; background-size: cover;">
@@ -18,7 +18,7 @@
                     </div>
                 </a>
             </div>
-            {% endfor %} {% endfor %}
+            {% endfor %}
         </div>
     </div>
 </section>

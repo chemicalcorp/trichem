@@ -10,7 +10,6 @@ parent: products
 <div class="container">
 
 
-<h1 style="text-align:center; color: black;">Catalogue</h1>
  <table class="table">
     <thead>
       <tr>

@@ -1,12 +1,38 @@
 <!DOCTYPE html>
 <html>
 
-    {% include head.html %}
+{% include head.html %}
     <body id="page-top" class="index">
-    {% include header.html %}
+    {% include navbar.html  id=page.parent %} 
 
-    {{ content }}
 
+<div class="productname" style="background-image:url('/img/{{page.image}}');">
+    <h1 style="text-align: center;">{{page.product}}</h1>
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<div class="container">
+<article style="font-size: 120%; text-align: left; color: black;">
+    {{page.description}}
+</article>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+    {{content}}
+    {% include enquiryform.html product=page.product%}
+    {% include footer.html %}
     {% include js.html %}
-    </body>
+</body>
+
 </html>
