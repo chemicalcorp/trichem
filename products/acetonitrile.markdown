@@ -5,5 +5,4 @@ parent: products
 product: acetonitrile
 image: adhesive.jpeg
 description: descript of the product
-
 ---

@@ -921,10 +921,10 @@ body {
  }
 
  .quote {
-     padding: 40px;
+     padding: 30px;
+     margin-top: 200px;
+     margin-bottom: 200px;
      text-align: left;
-     margin-top: 160px;
-     margin-bottom: 180px;
      color: white;
      border: 0;
      font-size: 2.5em;
@@ -1007,6 +1007,7 @@ blockquote::before{
 }
 
 @media only screen and (max-width: 768px) {
+    
     .navbar-brand img {
         padding-top: 12px;
         width: 15%;
