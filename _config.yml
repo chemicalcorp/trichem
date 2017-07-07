@@ -10,13 +10,13 @@ enquiryemail: enquiry@chemcorp.in
 
 links:
   - title: Aboutus
-    sublinks:
-      - title: Introduction
-        path: /pages/aboutus/introduction
-      - title: Team
-        path: /pages/aboutus/team
-      - title: Vision
-        path: /pages/aboutus/vision
+    # sublinks:
+    #   - title: Introduction
+    #     path: /pages/aboutus/introduction
+    #   - title: Team
+    #     path: /pages/aboutus/team
+    #   - title: Vision
+    #     path: /pages/aboutus/vision
     id: aboutus
   - title: Products
     id: products
