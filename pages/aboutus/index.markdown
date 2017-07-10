@@ -77,10 +77,33 @@ parent: aboutus
         </ul>
     </article>
 </div>
+<br/>
+<br/>
+<div class="team">
+    <div class="overlay">
+        <h1 class="pageheading">Team</h1>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div></div>
+        <div></div>
+    </div>
+    <div class="row">
+        <div></div>
+        <div></div>
+    </div>
+    <div class="row">
+        <div></div>
+        <div></div>
+    </div>
+    <div class="row">
+        <div></div>
+        <div></div>
+    </div>
 
 
-
-
+</div>
 <br/>
 <br/>
 <div class="vision">
@@ -152,12 +175,5 @@ parent: aboutus
     </article>
 </div>
 
-<div class="team">
-    <div class="overlay">
-        <h1 class="pageheading">Team</h1>
-    </div>
-</div>
-<br/>
-<br/>
-<br/>
+
 

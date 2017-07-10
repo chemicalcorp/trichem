@@ -178,4 +178,63 @@ industries:
       GLYCERIN -USP,
       TERTIARY BUTANOL
     ]
+  - title: Water Treatement
+    image: 'pharma.jpeg'
+    id: 6
+    products: [
+      HYDRAZINE HYDRATE,
+      ACRYLAMIDE,
+      ALLYL CHLORIDE,
+      CYCLO HEXYLAMINE,
+      Methyl methacrylate
+    ]
+  - title: inks, Dyes and Pigments
+    image: 'fuel.jpg'
+    id: 7
+    products: [
+      2 ETHYL HEXANOIC ACID, 
+      ANILINE,
+      ANTHRAQUINONE,
+      BUTYL CARBITOL,  
+      EPICHLOROHYDRIN, 
+      HYDROQUINONE, 
+      Methyl methacrylate,
+      N PROPANOL, 
+      O N  T ,
+      P T O P,
+      PHTHALIC ANHYDRIDE,
+      REFINED NAPHTHALENE, 
+      TRIMETHYLOL PROPANE
+    ]
+  - title: Lubricants
+    image: 'adhesive.jpeg'
+    id: 8
+    products: [
+      ACRYLIC ACID,
+      MYRISTIC ACID,
+      N PROPANOL,
+      NEOPENTYL GLYCOL,
+      OLEIC ACID,  
+      PALMITIC ACID, 
+      PENTAERYTHRITOL,
+      TRIETHANOLAMINE 85
+    ]
+  - title: Textiles
+    image: 'pharma.jpeg'
+    id: 9
+    products: [
+      ACRYLAMIDE,
+      BUTYL CARBITOL,  
+      EPICHLOROHYDRIN, 
+      FORMIC ACID,
+      GLYCERIN -USP,
+      HYDROXYLAMINE SULPHATE,
+      NEOPENTYL GLYCOL,
+      OLEIC ACID,  
+      P T O P,
+      PENTAERYTHRITOL,
+      PHENOL,
+      TRIETHANOLAMINE 85,
+      TRIMETHYLOL PROPANE
+    ]
 
