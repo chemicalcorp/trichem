@@ -29,19 +29,27 @@ links:
 people:
 - name: Mr. Chandrakant J. Shah
   pic: cshah
-  position: Director
+  position: Director,
+  tagline: Brief role
+  info: brief info
 
 - name: Mr. Harshad J. Shah
   pic: hshah
   position: Director
+  tagline: Brief role
+  info: brief info
 
 - name: Mr. Nilesh C. Shah
   pic: nshah
   position: Director
+  tagline: Brief role
+  info: brief info
 
 - name: Mr. Ketan C. Shah
   pic: kshah
-  position: Director 
+  position: Director,
+  tagline: Brief role
+  info: brief info 
 
 # # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:

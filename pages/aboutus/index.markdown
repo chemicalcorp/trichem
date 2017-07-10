@@ -10,6 +10,18 @@ parent: aboutus
     </div>
 </div>
 
+<br/>
+<div class="container">
+    <div class="btn btn-primary btn-sm">
+        History
+    </div>
+    <div class="btn btn-primary btn-sm">
+        Team
+    </div>
+    <div class="btn btn-primary btn-sm">
+        Vision
+    </div>
+</div>
 
 <div class="container">
         <article style="font-size: 120%; text-align: left; color: black;">
@@ -85,24 +97,75 @@ parent: aboutus
     </div>
 </div>
 <div class="container">
-    <div class="row">
-        <div></div>
-        <div></div>
+   <br/>
+    <div class="row" style="background: whitesmoke;">
+        <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
+             <img src="/img/team/cshah.JPG" class="img-responsive"/>
+        </div>
+         <div class="col-md-6">
+           <h3 style="text-align: center;">Mr. Chandrakant J. Shah</h3> 
+           <h5 style="text-align: center;">Director</h5> 
+            <article style="font-size: 140%; text-align: left; color: black;">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                INFO
+                <br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                DETAILS
+            </article>
+         </div>
     </div>
-    <div class="row">
-        <div></div>
-        <div></div>
+    <hr/>
+      <div class="row flex-column-reverse flex-md-row" style="background: whitesmoke;">
+         <div class="col-md-6">
+           <h3 style="text-align: center;"> Mr. Harshad J. Shah</h3> 
+           <h5 style="text-align: center;">Director</h5> 
+            <article style="font-size: 140%; text-align: left; color: black;">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                INFO
+                <br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                DETAILS
+            </article>
+         </div>
+        <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
+             <img src="/img/team/hshah.JPG" class="img-responsive"/>
+        </div>
     </div>
-    <div class="row">
-        <div></div>
-        <div></div>
+    <hr/>
+      <div class="row" style="background: whitesmoke;">
+        <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
+             <img src="/img/team/nshah.JPG" class="img-responsive"/>
+        </div>
+         <div class="col-md-6">
+           <h3 style="text-align: center;"> Mr. Nilesh C. Shah</h3> 
+           <h5 style="text-align: center;">Director</h5> 
+             <article style="font-size: 140%; text-align: left; color: black;">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                INFO
+                <br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                DETAILS
+            </article>
+         </div>
     </div>
-    <div class="row">
-        <div></div>
-        <div></div>
+    <hr/>
+      <div class="row" style="background: whitesmoke;">
+         <div class="col-md-6">
+           <h3 style="text-align: center;">Mr. Ketan C. Shah</h3> 
+           <h5 style="text-align: center;">Director</h5> 
+             <article style="font-size: 140%; text-align: left; color: black;">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                INFO
+                <br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                DETAILS
+            </article>
+         </div>
+         <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
+             <img src="/img/team/kshah.JPG" class="img-responsive"/>
+        </div>
     </div>
-
-
+    <hr/>
 </div>
 <br/>
 <br/>
