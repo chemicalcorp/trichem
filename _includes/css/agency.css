@@ -1017,9 +1017,26 @@ blockquote::before{
         margin-bottom: 10px;
         font-size: 1.4em;
     }
+
+    .affix {
+        top: 62px !important; 
+        right: 5px !important;
+    }
 }
 
 .blacktext {
     color: black;
 }
+.aboutlinks{
+    padding-top: 10px;
+}
+.affix {
+    top: 82px;
+    right: 15px;
+    position:fixed;
+    z-index: 1000;
+}
 
+.btn-sm{
+    padding: 2px 7px;
+}

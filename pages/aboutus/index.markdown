@@ -4,26 +4,26 @@ parmalink: 'pages/aboutus'
 parent: aboutus
 ---
 
-<div class="aboutintro">
+<div id="history" class="aboutintro">
     <div class="overlay">
         <h1 class="pageheading">Aboutus</h1>
     </div>
 </div>
-
-<br/>
-<div class="container">
-    <div class="btn btn-primary btn-sm">
-        History
-    </div>
-    <div class="btn btn-primary btn-sm">
-        Team
-    </div>
-    <div class="btn btn-primary btn-sm">
-        Vision
-    </div>
+<div class="container aboutlinks">
+    <div data-spy="affix" data-offset-top="300" style="float: right;">
+        <a href="#history" class="btn btn-primary btn-sm">
+            History
+        </a>
+        <a href="#team" class="btn btn-primary btn-sm">
+            Team
+        </a>
+        <a href="#vision" class="btn btn-primary btn-sm">
+            Vision
+        </a>      
+    </div> 
 </div>
 
-<div class="container">
+<div  class="container">
         <article style="font-size: 120%; text-align: left; color: black;">
         <br>
         <h3 style="text-align: left;">History</h3>
@@ -91,18 +91,18 @@ parent: aboutus
 </div>
 <br/>
 <br/>
-<div class="team">
+<div id="team" class="team">
     <div class="overlay">
         <h1 class="pageheading">Team</h1>
     </div>
 </div>
 <div class="container">
-   <br/>
-    <div class="row" style="background: whitesmoke;">
-        <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
+    <br/>
+    <div id="cshah" class="row" style="background: whitesmoke;">
+        <div class="col-md-5" style="margin-top: 10px; margin-bottom: 10px;">
              <img src="/img/team/cshah.JPG" class="img-responsive"/>
         </div>
-         <div class="col-md-6">
+         <div class="col-md-7">
            <h3 style="text-align: center;">Mr. Chandrakant J. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
             <article style="font-size: 140%; text-align: left; color: black;">
@@ -115,9 +115,12 @@ parent: aboutus
          </div>
     </div>
     <hr/>
-      <div class="row flex-column-reverse flex-md-row" style="background: whitesmoke;">
-         <div class="col-md-6">
-           <h3 style="text-align: center;"> Mr. Harshad J. Shah</h3> 
+      <div id="hshah" class="row" style="background: whitesmoke;">
+        <div class="col-md-5 col-md-push-7" style="margin-top: 10px; margin-bottom: 10px;">
+                 <img src="/img/team/hshah.JPG" class="img-responsive"/>
+        </div>
+        <div class="col-md-7 col-md-pull-5">
+          <h3 style="text-align: center;"> Mr. Harshad J. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
             <article style="font-size: 140%; text-align: left; color: black;">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -126,17 +129,14 @@ parent: aboutus
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 DETAILS
             </article>
-         </div>
-        <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
-             <img src="/img/team/hshah.JPG" class="img-responsive"/>
         </div>
     </div>
     <hr/>
-      <div class="row" style="background: whitesmoke;">
-        <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
+      <div id="nshah" class="row" style="background: whitesmoke;">
+        <div class="col-md-5" style="margin-top: 10px; margin-bottom: 10px;">
              <img src="/img/team/nshah.JPG" class="img-responsive"/>
         </div>
-         <div class="col-md-6">
+         <div class="col-md-7">
            <h3 style="text-align: center;"> Mr. Nilesh C. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
              <article style="font-size: 140%; text-align: left; color: black;">
@@ -149,8 +149,11 @@ parent: aboutus
          </div>
     </div>
     <hr/>
-      <div class="row" style="background: whitesmoke;">
-         <div class="col-md-6">
+      <div id="kshah" class="row" style="background: whitesmoke;">
+        <div class="col-md-5 col-md-push-7" style="margin-top: 10px; margin-bottom: 10px;">
+             <img src="/img/team/kshah.JPG" class="img-responsive"/>
+        </div>
+         <div class="col-md-7 col-md-pull-5">
            <h3 style="text-align: center;">Mr. Ketan C. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
              <article style="font-size: 140%; text-align: left; color: black;">
@@ -161,15 +164,12 @@ parent: aboutus
                 DETAILS
             </article>
          </div>
-         <div class="col-md-6" style="margin-top: 10px; margin-bottom: 10px;">
-             <img src="/img/team/kshah.JPG" class="img-responsive"/>
-        </div>
     </div>
     <hr/>
 </div>
 <br/>
 <br/>
-<div class="vision">
+<div id="vision" class="vision">
     <div class="overlay">
         <h1 class="pageheading">Vision</h1>
     </div>
