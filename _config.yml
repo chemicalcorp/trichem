@@ -29,55 +29,19 @@ links:
 people:
 - name: Mr. Chandrakant J. Shah
   pic: cshah
-  position: Director,
-  tagline: Brief role
-  info: brief info
+  position: Director
 
 - name: Mr. Harshad J. Shah
   pic: hshah
   position: Director
-  tagline: Brief role
-  info: brief info
 
 - name: Mr. Nilesh C. Shah
   pic: nshah
   position: Director
-  tagline: Brief role
-  info: brief info
 
 - name: Mr. Ketan C. Shah
   pic: kshah
   position: Director,
-  tagline: Brief role
-  info: brief info 
-
-# # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
-#   - title: twitter
-#     url: http://twitter.com/jekyllrb
-#   - title: facebook
-#     url:
-#   - title: stack-overflow
-#     url: http://stackoverflow.com/questions/tagged/jekyll
-#   - title: bitbucket 
-#     url: http://bitbucket.org/jekyll
-#   - title: github
-#     url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
 
 
 industries:
@@ -246,3 +210,83 @@ industries:
       TRIMETHYLOL PROPANE
     ]
 
+products:
+  ACETONITRILE,TAIWAN,75-05-8,160 KGS,,
+  ACETONITRILE,FORMOSA,75-05-8,160 KGS,,
+  ALLYL CHLORIDE,JAPAN,107-05-1,180 KGS,,
+  ANTHRAQUINONE,DEZA,84-65-1,20 KGS,,
+  ANILINE,CHINA,62-53-3,200 KGS,,
+  BUTYL CARBITOL ,SOLVENTIS,112-34-5,200 KGS,,
+  CHLOROFORM,RUSSIA,67-66-3,290 KGS,,
+  DI METHYL SULFOXIDE,CHINA, 67-68-5,225KGS,,
+  DI ISO PROPYLETHER,INEOS,108-20-3,143 KGS,,
+  EPICHLOROHYDRIN,GERMAN, 106-89-8,240 KGS,,
+  GLYCERIN -USP,MALAYSIA,56-81-5,250 KGS,,
+  HEPTANE,ISRAEL,N/A,134 KGS,,
+  HYDRAZINE HYDRATE -LANXESS ,GERMANY,302-01-2,200 KGS,,
+  HYDRAZINE HYDRATE,KOREA,302-01-2,200 KGS,,
+  HYDROXYLAMINE SULPHATE,RUSSIA,233-118-8,25 KGS,,
+  MALEIC ANHYDRIDE,MALAYSIA,108-31-6,25 KGS,,
+  METHYL METHACRYLATE,CHINA,80-62-6,180 KGS,,
+  MERCURY METAL,,7439-97-6,,
+  MYRISTIC ACID,MALAYSIA,544-63-8,25 KGS,,
+  NEOPENTYL GLYCOL,JAPAN / KOREA, 126-30-7,25 KGS,,
+  N PROPANOL,DAIREN,71-23-8,165 KGS,,
+  O N  T,LANXESS,88-72-2,230 KGS,,
+  P T O P,KOREA,140-66-9,25 KGS,,
+  PHOSPHORUS PENTOXIDE,,1314-56-3,50 KGS,,
+  PHTHALIC ANHYDRIDE,INDONESIA, 85-44-9,25 KGS,,
+  PALMITIC ACID,MALAYSIA,57-10-3,25 KGS,,
+  PENTAERYTHRITOL,TURKEY,115-77-5,25 KGS,,
+  PHENOL,TAIWAN / KOREA,108-95-2,200 / 210 KGS,,
+  PROPYLENE CARBONATE,CHINA, 108-32-7,250 KGS,,
+  TETRAHYDROFURAN ,DAIREN / SAUDI,109-99-9,180 KGS,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# APPLICATION SETTINGS 
+########## DO NOT EDIT ############
+# Build settings
+markdown: kramdown
+permalink: pretty
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false

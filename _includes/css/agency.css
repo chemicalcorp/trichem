@@ -1022,6 +1022,13 @@ blockquote::before{
         top: 62px !important; 
         right: 5px !important;
     }
+    .casno {
+        display: none;
+        font-size: 13px;
+    }
+    .norm {
+        font-size: 13px;
+    }
 }
 
 .blacktext {
@@ -1040,3 +1047,5 @@ blockquote::before{
 .btn-sm{
     padding: 2px 7px;
 }
+
+

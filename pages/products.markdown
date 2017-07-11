@@ -13,33 +13,34 @@ parent: products
  <table class="table">
     <thead>
       <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
+        <th>Name</th>
+         <th>Make</th>
+        <th class="casno">CAS No.</th>
+        <th>Packing</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>John</td>
-        <td>Doe</td>
-        <td>john@example.com</td>
-                <td>Doe</td>
-                        <td>Doe</td>
-      </tr>
-      <tr>
-        <td>Mary</td>
-        <td>Moe</td>
-        <td>mary@example.com</td>
-                <td>Doe</td>
-                        <td>Doe</td>
-      </tr>
-      <tr>
-        <td>July</td>
-        <td>Dooley</td>
-        <td>july@example.com</td>
-                <td>Doe</td>
-                        <td>Doe</td>
-      </tr>
+     {% assign words = site.products | split: ',,'; %}
+        {% for word in words %}
+         <tr>
+          {% assign row = word | split: ','; %}
+            {% for cell in row %}
+              {% if row[2] == cell%}
+              <th class="casno">   
+                 <a href="/products/{{row[0] | replace: ' ' , '_' | downcase}}"  style="color: black; text-decoration: none;">
+                {{cell}}
+                </a>
+              </th>              
+              {% else %}
+                <th class="norm">   
+                 <a href="/products/{{row[0] | replace: ' ' , '_' | downcase}}"  style="color: black; text-decoration: none;">
+                {{cell}}
+                </a>
+              </th>
+              {% endif%}
+            {% endfor %}
+          </tr>
+         {% endfor %}
     </tbody>
   </table>
   </div>
