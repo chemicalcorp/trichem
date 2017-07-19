@@ -103,14 +103,15 @@ parent: aboutus
              <img src="/img/team/cshah.JPG" class="img-responsive"/>
         </div>
          <div class="col-md-7">
-           <h3 style="text-align: center;">Mr. Chandrakant J. Shah</h3> 
+           <h3 style="text-align: center; padding-top: 30px">Mr. Chandrakant J. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
             <article style="font-size: 140%; text-align: left; color: black;">
+                <br/>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                INFO
+               Qualified as a <b>Bachelor of Science</b> from <b>University of Mumbai</b>, he made a modest beginning in mid <b>1950s</b> by working as a chemist with <b>Sterling Chemicals.</b> He then helped set up Chemical Corp and promoted it with his brother Harshad Shah. He later diversified into manufacturing of inorganic and organic salts under the company Sterling Orgo and Inorgo Pvt. Ltd. 
                 <br/>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                DETAILS
+                He was also instrumental in setting up the New Bombay plant of <b>Trichem Laboratories (Bombay) Pvt. Ltd.</b> At present he looks after the overall operations of the group.
             </article>
          </div>
     </div>
@@ -120,14 +121,12 @@ parent: aboutus
                  <img src="/img/team/hshah.JPG" class="img-responsive"/>
         </div>
         <div class="col-md-7 col-md-pull-5">
-          <h3 style="text-align: center;"> Mr. Harshad J. Shah</h3> 
+          <h3 style="text-align: center; padding-top: 30px"> Mr. Harshad J. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
             <article style="font-size: 140%; text-align: left; color: black;">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                INFO
                 <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                DETAILS
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                He is qualified as a <b>Bachelor of Science (B. Sc)</b> from <b>University of Mumbai,</b> made a humble beginning by trading of chemicals. He continued to expand his business by penetrating into the market and maintaining a strong hold on trading vertical of the group. He was instrumental in establishing <b>CC in 1959</b> along with his elder brother Mr. Chandrakant Shah. At present he looks after the trading business and overall operations of the Company. He was also the <b>Hon.secretary of Chemical & Alkali Merchants Association (CAMA)</b> and is presently a member of the <b>Arbitration committee.</b>
             </article>
         </div>
     </div>
@@ -137,14 +136,12 @@ parent: aboutus
              <img src="/img/team/nshah.JPG" class="img-responsive"/>
         </div>
          <div class="col-md-7">
-           <h3 style="text-align: center;"> Mr. Nilesh C. Shah</h3> 
+           <h3 style="text-align: center; padding-top: 30px;"> Mr. Nilesh C. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
              <article style="font-size: 140%; text-align: left; color: black;">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                INFO
                 <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                DETAILS
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                He is qualified as a <b>Bachelor of Science (B. Sc)</b> specializing is Chemistry from the <b>University of Mumbai.</b> He has the overall knowledge of the <b>core technical</b> on goings within the group. He handles the technical issues pertaining to material and overall infrastructure. His support in the technical aspects of the group. also helps him in identification and <b>development of new products </b>for the group. He set up the current manufacturing unit at Ambernath of <b>Trichem Laboratories (Bombay) Pvt. Ltd.</b> 
             </article>
          </div>
     </div>
@@ -154,14 +151,13 @@ parent: aboutus
              <img src="/img/team/kshah.JPG" class="img-responsive"/>
         </div>
          <div class="col-md-7 col-md-pull-5">
-           <h3 style="text-align: center;">Mr. Ketan C. Shah</h3> 
+           <h3 style="text-align: center; padding-top: 30px">Mr. Ketan C. Shah</h3> 
            <h5 style="text-align: center;">Director</h5> 
              <article style="font-size: 140%; text-align: left; color: black;">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                INFO
+             <br/>
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+               He is a qualified <b>Computer Engineer</b> from the <b>University of Mumbai.</b> He is in charge of the entire group’s <b>finance.</b>  He is an integral part of <b>CCPL’s Management, Operations and Sales.</b> He is also responsible for the other <b>commercial activities</b> of the group. 
                 <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                DETAILS
             </article>
          </div>
     </div>
