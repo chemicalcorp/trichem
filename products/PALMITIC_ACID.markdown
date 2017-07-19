@@ -1,7 +1,9 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/PALMITIC_ACID'
 parent: products
-product: ACETONITRILE 
+product: PALMITIC ACID 
 image: adhesive.jpeg
+
 ---
+

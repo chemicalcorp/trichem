@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/ANTHRAQUINONE'
 parent: products
-product: ACETONITRILE 
+product: ANTHRAQUINONE 
 image: adhesive.jpeg
+
 ---

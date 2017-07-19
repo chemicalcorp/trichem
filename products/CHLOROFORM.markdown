@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/CHLOROFORM'
 parent: products
-product: ACETONITRILE 
+product: CHLOROFORM 
 image: adhesive.jpeg
+
 ---

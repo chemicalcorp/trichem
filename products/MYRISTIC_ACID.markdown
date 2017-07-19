@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/MYRISTIC_ACID'
 parent: products
-product: ACETONITRILE 
+product: MYRISTIC ACID 
 image: adhesive.jpeg
+
 ---

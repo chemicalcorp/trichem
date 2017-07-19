@@ -27,13 +27,13 @@ parent: products
             {% for cell in row %}
               {% if row[2] == cell%}
               <th class="casno">   
-                 <a href="/products/{{row[0] | replace: ' ' , '_' | downcase}}"  style="color: black; text-decoration: none;">
+                 <a href="/products/{{row[0] | remove: " " | downcase}}"  style="color: black; text-decoration: none;">
                 {{cell}}
                 </a>
               </th>              
               {% else %}
                 <th class="norm">   
-                 <a href="/products/{{row[0] | replace: ' ' , '_' | downcase}}"  style="color: black; text-decoration: none;">
+                 <a href="/products/{{row[0] | remove: " " | downcase}}"  style="color: black; text-decoration: none;">
                 {{cell}}
                 </a>
               </th>

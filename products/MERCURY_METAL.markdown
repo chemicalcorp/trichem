@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/MERCURY_METAL'
 parent: products
-product: ACETONITRILE 
+product: MERCURY METAL 
 image: adhesive.jpeg
+
 ---

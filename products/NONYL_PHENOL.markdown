@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/NONYL_PHENOL'
 parent: products
-product: ACETONITRILE 
+product: NONYL PHENOL 
 image: adhesive.jpeg
+
 ---

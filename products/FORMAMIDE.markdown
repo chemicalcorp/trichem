@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/FORMAMIDE'
 parent: products
-product: ACETONITRILE 
+product: FORMAMIDE 
 image: adhesive.jpeg
+
 ---

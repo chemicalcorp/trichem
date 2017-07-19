@@ -9,10 +9,6 @@
 <div class="productname" style="background-image:url('/img/{{page.image}}');">
     <h1 style="text-align: center;">{{page.product}}</h1>
 </div>
-<br/>
-<br/>
-<br/>
-<br/>
 <div class="container">
 <article style="font-size: 120%; text-align: left; color: black;">
     {{page.description}}
@@ -20,17 +16,21 @@
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-
+<center>
+      
+   <div style="font-size: 200%; text-align: center; color: black;">
+        Request for Quote
+   </div>
+   <div style="font-size: 160%; text-align: center; color: black;">
+        To request for quote simply fill out the form or call us at 022-66312644 / 45 / 46 / 47
+   </div>
+ 
+</center>
+<br/>
 
     {{content}}
-    {% include enquiryform.html product=page.product%}
+    {% include enquiryform.html product = page.product%}
     {% include footer.html %}
     {% include js.html %}
 </body>

@@ -18,7 +18,7 @@
                     <div class="col-md-6">
                         {% if include.product %}
                         <div class="control-group form-group">
-                            <input value="{{include.product}}" name="product" type="text" class="form-control" placeholder="Product" id="product" required data-validation-required-message="Please enter product name.">
+                            <input value="{{include.product | upcase}}" disabled name="product" type="text" class="form-control" placeholder="Product" id="product" required data-validation-required-message="Please enter product name.">
                             <p class="help-block text-danger"></p>
                         </div>
                         {% else %}

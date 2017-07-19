@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/FORMIC_ACID'
 parent: products
-product: ACETONITRILE 
+product: FORMIC ACID 
 image: adhesive.jpeg
+
 ---

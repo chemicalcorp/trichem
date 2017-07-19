@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/OLEIC_ACID'
 parent: products
-product: ACETONITRILE 
+product: OLEIC ACID 
 image: adhesive.jpeg
+
 ---

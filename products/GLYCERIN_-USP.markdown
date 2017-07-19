@@ -1,7 +1,8 @@
 ---
 layout: product
-parmalink: 'products/ACETONITRILE'
+parmalink: 'products/GLYCERIN_-USP'
 parent: products
-product: ACETONITRILE 
+product: GLYCERIN -USP 
 image: adhesive.jpeg
+
 ---
