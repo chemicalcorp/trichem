@@ -6,7 +6,8 @@ logo: /img/logo.png
 email: your-email@domain.com
 description: "DESCRIBE YOUR PRODUCT"
 
-enquiryemail: enquiry@chemcorp.in
+# enquiryemail: enquiry@chemcorp.in
+enquiryemail: sujandt@gmail.com
 
 links:
   - title: About Us
