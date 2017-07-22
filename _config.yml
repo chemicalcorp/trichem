@@ -9,7 +9,7 @@ description: "DESCRIBE YOUR PRODUCT"
 enquiryemail: enquiry@chemcorp.in
 
 links:
-  - title: Aboutus
+  - title: About Us
     # sublinks:
     #   - title: Introduction
     #     path: /pages/aboutus/introduction
