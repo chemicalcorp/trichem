@@ -14,10 +14,7 @@ parent: aboutus
         <a href="#history" class="btn btn-primary btn-sm">
             History
         </a>
-        <a href="#team" class="btn btn-primary btn-sm">
-            Team
-        </a>
-        <a href="#vision" class="btn btn-primary btn-sm">
+         <a href="#vision" class="btn btn-primary btn-sm">
             Vision
         </a>      
     </div> 
@@ -91,78 +88,7 @@ parent: aboutus
 </div>
 <br/>
 <br/>
-<div id="team" class="team">
-    <div class="overlay">
-        <h1 class="pageheading">Team</h1>
-    </div>
-</div>
-<div class="container">
-    <br/>
-    <div id="cshah" class="row" style="background: whitesmoke;">
-        <div class="col-md-5" style="margin-top: 10px; margin-bottom: 10px;">
-             <img src="/img/team/cshah.JPG" class="img-responsive"/>
-        </div>
-         <div class="col-md-7">
-           <h3 style="text-align: center; padding-top: 30px">Mr. Chandrakant J. Shah</h3> 
-           <h5 style="text-align: center;">Director</h5> 
-            <article style="font-size: 140%; text-align: left; color: black;">
-                <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-               Qualified as a <b>Bachelor of Science</b> from <b>University of Mumbai</b>, he made a modest beginning in mid <b>1950s</b> by working as a chemist with <b>Sterling Chemicals.</b> He then helped set up Chemical Corp and promoted it with his brother Harshad Shah. He later diversified into manufacturing of inorganic and organic salts under the company Sterling Orgo and Inorgo Pvt. Ltd. 
-                <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                He was also instrumental in setting up the New Bombay plant of <b>Trichem Laboratories (Bombay) Pvt. Ltd.</b> At present he looks after the overall operations of the group.
-            </article>
-         </div>
-    </div>
-    <hr/>
-      <div id="hshah" class="row" style="background: whitesmoke;">
-        <div class="col-md-5 col-md-push-7" style="margin-top: 10px; margin-bottom: 10px;">
-                 <img src="/img/team/hshah.JPG" class="img-responsive"/>
-        </div>
-        <div class="col-md-7 col-md-pull-5">
-          <h3 style="text-align: center; padding-top: 30px"> Mr. Harshad J. Shah</h3> 
-           <h5 style="text-align: center;">Director</h5> 
-            <article style="font-size: 140%; text-align: left; color: black;">
-                <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                He is qualified as a <b>Bachelor of Science (B. Sc)</b> from <b>University of Mumbai,</b> made a humble beginning by trading of chemicals. He continued to expand his business by penetrating into the market and maintaining a strong hold on trading vertical of the group. He was instrumental in establishing <b>CC in 1959</b> along with his elder brother Mr. Chandrakant Shah. At present he looks after the trading business and overall operations of the Company. He was also the <b>Hon.secretary of Chemical & Alkali Merchants Association (CAMA)</b> and is presently a member of the <b>Arbitration committee.</b>
-            </article>
-        </div>
-    </div>
-    <hr/>
-      <div id="nshah" class="row" style="background: whitesmoke;">
-        <div class="col-md-5" style="margin-top: 10px; margin-bottom: 10px;">
-             <img src="/img/team/nshah.JPG" class="img-responsive"/>
-        </div>
-         <div class="col-md-7">
-           <h3 style="text-align: center; padding-top: 30px;"> Mr. Nilesh C. Shah</h3> 
-           <h5 style="text-align: center;">Director</h5> 
-             <article style="font-size: 140%; text-align: left; color: black;">
-                <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                He is qualified as a <b>Bachelor of Science (B. Sc)</b> specializing is Chemistry from the <b>University of Mumbai.</b> He has the overall knowledge of the <b>core technical</b> on goings within the group. He handles the technical issues pertaining to material and overall infrastructure. His support in the technical aspects of the group. also helps him in identification and <b>development of new products </b>for the group. He set up the current manufacturing unit at Ambernath of <b>Trichem Laboratories (Bombay) Pvt. Ltd.</b> 
-            </article>
-         </div>
-    </div>
-    <hr/>
-      <div id="kshah" class="row" style="background: whitesmoke;">
-        <div class="col-md-5 col-md-push-7" style="margin-top: 10px; margin-bottom: 10px;">
-             <img src="/img/team/kshah.JPG" class="img-responsive"/>
-        </div>
-         <div class="col-md-7 col-md-pull-5">
-           <h3 style="text-align: center; padding-top: 30px">Mr. Ketan C. Shah</h3> 
-           <h5 style="text-align: center;">Director</h5> 
-             <article style="font-size: 140%; text-align: left; color: black;">
-             <br/>
-               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-               He is a qualified <b>Computer Engineer</b> from the <b>University of Mumbai.</b> He is in charge of the entire group’s <b>finance.</b>  He is an integral part of <b>CCPL’s Management, Operations and Sales.</b> He is also responsible for the other <b>commercial activities</b> of the group. 
-                <br/>
-            </article>
-         </div>
-    </div>
-    <hr/>
-</div>
+
 <br/>
 <br/>
 <div id="vision" class="vision">
@@ -180,10 +106,10 @@ parent: aboutus
         <hr/>
         CCPL will be a recognized leader in our markets. We will realize our vision by:
         <ul>
-            <li><div>We invest in people, technology, and assets.</div></li>
-            <li><div>We are determined in preserving the environment</div></li>
-            <li><div>We thrive to develop a cooperative and strong relationship with our customers through</div> </li>
-            <li>Customer satisfaction is our final goal.</li>
+            <li><div>Investing in people, technology, and assets.</div></li>
+            <li><div>Determined to preserve the environment.</div></li>
+            <li><div>Thrive to develop a co-operative and strong relationship with our customers</div> </li>
+            <li>Ultimate goal will be customer satisfaction</li>
         </ul>
         <br>
         <h3 style="text-align: left;">Mission</h3>
@@ -226,7 +152,7 @@ parent: aboutus
         Learning, share information & knowledge, give everybody an opportunity to grow. What we have learnt years ago will become rapidly obsolete and new learning is vital for all of us.
         <br/>
         <br/>
-        These shared values distinguish CCPL in the market for its unique style, outiside and inside the company. This has enables us to become the most trusted supplier and distributer in the market with focus on quality and timely delivery.
+        These shared values distinguish CCPL in the market for its unique style, outiside and inside the company. This has enabled us to become the most trusted supplier and distributer in the market with focus on quality and timely delivery. 
         <br/>
         <br/>
         <br/>

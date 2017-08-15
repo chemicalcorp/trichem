@@ -1,10 +1,23 @@
-<!--<form method="POST" action="http://formspree.io/{{site.enquiryemail}}">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send</button>
-</form>-->
-<hr/>
 <div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+                <hr class="hr-text" data-content="OR">
+        </div>
+    </div>
+    <div>
+        <div class="col-lg-12" style="text-align:center;">
+            <div style="font-size: 160%; text-align: center; color: black;">
+                Mail us: 
+                <a style="border: 1px solid black; padding: 4px;" href="mailto:{{site.enquiryemail}}?Subject={{include.product | upcase}}" target="_top">{{site.enquiryemail}}</a>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+
+
+
+<!-- <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
             <h3 class="section-heading">Enquiry</h3>
@@ -60,4 +73,4 @@
             </form>
         </div>
     </div>
-</div>
+</div> -->

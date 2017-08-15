@@ -21,9 +21,11 @@ links:
     id: aboutus
   - title: Products
     id: products
+  - title: Team
+    id: team  
   - title: Contact Us
     id: contactus
-    
+
 
 
 # Team names, titles and social links
@@ -152,7 +154,7 @@ industries:
       TERTIARY BUTANOL
     ]
   - title: Water Treatement
-    image: 'pharma.jpeg'
+    image: 'water.jpeg'
     id: 6
     products: [
       HYDRAZINE HYDRATE,
@@ -162,7 +164,7 @@ industries:
       Methyl methacrylate
     ]
   - title: inks, Dyes and Pigments
-    image: 'fuel.jpg'
+    image: 'ink.jpeg'
     id: 7
     products: [
       2 ETHYL HEXANOIC ACID, 
@@ -180,7 +182,7 @@ industries:
       TRIMETHYLOL PROPANE
     ]
   - title: Lubricants
-    image: 'adhesive.jpeg'
+    image: 'lubricant.jpeg'
     id: 8
     products: [
       ACRYLIC ACID,
@@ -193,7 +195,7 @@ industries:
       TRIETHANOLAMINE 85
     ]
   - title: Textiles
-    image: 'pharma.jpeg'
+    image: 'textile.jpeg'
     id: 9
     products: [
       ACRYLAMIDE,
