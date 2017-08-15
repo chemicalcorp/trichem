@@ -19,10 +19,10 @@ links:
     #   - title: Vision
     #     path: /pages/aboutus/vision
     id: aboutus
-  - title: Products
-    id: products
   - title: Team
     id: team  
+  - title: Products
+    id: products
   - title: Contact Us
     id: contactus
 
