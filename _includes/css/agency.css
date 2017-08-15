@@ -1064,12 +1064,12 @@ blockquote::before{
     color: black;
     text-align: center;
     height: 1.5em;
-    opacity: .5;
+    /* opacity: .5; */
   }
   .hr-text:before {
     content: '';
-    background: -webkit-linear-gradient(left, transparent, #818078, transparent);
-    background: linear-gradient(to right, transparent, #818078, transparent);
+    background: -webkit-linear-gradient(left, transparent, #000000, transparent);
+    background: linear-gradient(to right, transparent, #000000, transparent);
     position: absolute;
     left: 0;
     top: 50%;
@@ -1083,7 +1083,7 @@ blockquote::before{
     color: black;
     padding: 0 .5em;
     line-height: 1.5em;
-    color: #818078;
+    color: #000000;
     background-color: #fcfcfa;
   }
   
