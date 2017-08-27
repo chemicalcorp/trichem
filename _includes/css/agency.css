@@ -603,6 +603,7 @@ section h3.section-subheading {
 }
 
 @media(min-width:992px) {
+
     .timeline>li {
         min-height: 150px;
     }
@@ -1014,7 +1015,16 @@ blockquote::before{
     width: 8%;
 }
 @media only screen and (max-width: 768px) {
-    
+   
+    .col-centered {
+        display: block;
+        float:none;
+        width: 100%;
+        /* reset the text-align */
+        text-align:center;
+        /* inline-block space fix */
+        margin-right:-4px;
+    }
     .navbar-brand img {
         padding: 8px;
         width: 13%;
@@ -1087,3 +1097,13 @@ blockquote::before{
     background-color: #fcfcfa;
   }
   
+  .col-centered {
+    display:inline-block;
+    float:none;
+    /* width: 50%; */
+    /* reset the text-align */
+    text-align:center;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
