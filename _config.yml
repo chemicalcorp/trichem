@@ -1,11 +1,22 @@
-
+# APPLICATION SETTINGS 
+########## DO NOT EDIT ############
+# Build settings
 baseurl: 
 # Site settings
+markdown: kramdown
+permalink: pretty
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+#######################################
+
 title: Chemical Corp Pvt Ltd
 logo: /img/logo.png
-email: your-email@domain.com
+email: enquiry@chemcorp.in
 description: "DESCRIBE YOUR PRODUCT"
-
 enquiryemail: enquiry@chemcorp.in
 # enquiryemail: sujandt@gmail.com
 
@@ -284,48 +295,89 @@ products:
   TRIMETHYLOL PROPANE,SWEDEN,77-99-6,25KGS,,
 
 
+keywords: "PHARMACEUTICALS,
+      Adhesives and Sealants,
+      Paints and coatings,
+      Agrochemicals, 
+      Fuel and fuel additives,
+      Water Treatement,
+      inks, Dyes and Pigments,
+      Lubricants,
+      Textiles,
+      Resins,
+      1-BROMO-3-CHLOROPROPANE,
+      ACETONITRILE,
+      ALLYL CHLORIDE,
+      ANILINE,
+      CHLOROFORM,
+      D M F,
+      DI ISO PROPYLETHER,
+      DI METHYL SULFOXIDE,
+      EPICHLOROHYDRIN,
+      GLYCERIN -USP,
+      HEPTANE,
+      HYDRAZINE HYDRATE,
+      HYDROXYLAMINE SULPHATE,
+      N PROPANOL,
+      O N  T ,
+      PHENOL,
+      SUCCINIC ACID  ,
+      TERTIARY BUTANOL,
+      TETRAHYDROFURAN,
+      2 ETHYL HEXANOIC ACID  (S),
+      ACRYLAMIDE,
+      ALLYL CHLORIDE,
+      BUTYL CARBITOL, 
+      CYCLO HEXANONE,
+      DI METHYL SULFOXIDE, 
+      EPICHLOROHYDRIN, 
+      FORMIC ACID,
+      GLYCERIN -USP,
+      HEPTANE,
+      METHYL METHACRYLATE (S),
+      MYRISTIC ACID (S),
+      OLEIC ACID  (S),
+      PALMITIC ACID,
+      PENTAERYTHRITOL,
+      PROPYLENE CARBONATE (S),
+      REFINED NAPHTHALENE (S),
+      TETRAHYDROFURAN,
+      TRICHLORO ETHYLENE, 
+      TRIETHANOLAMINE 85,
+      TRIMETHYLOL PROPANE,
+      2 ETHYL HEXANOIC ACID, 
+      ACRYLAMIDE,
+      ACRYLIC ACID,
+      ALLYL CHLORIDE,
+      CYCLO HEXANONE,
+      CYCLO HEXYLAMINE,
+      DI ISO PROPYLETHER, 
+      DI METHYL SULFOXIDE, 
+      EPICHLOROHYDRIN, 
+      GLYCERIN -USP,
+      HEPTANE,
+      METHYL METHACRYLATE,
+      N PROPANOL,
+      NEOPENTYL GLYCOL,
+      NONYL PHENOL,
+      OLEIC ACID,  
+      PENTAERYTHRITOL,
+      PHTHALIC ANHYDRIDE,
+      PROPYLENE CARBONATE,
+      REFINED NAPHTHALENE,
+      TETRAHYDROFURAN,
+      TRIMETHYLOL PROPANE,
+      ANILINE,
+      BISPHENOL A ,
+      EPICHLOROHYDRIN ,
+      MALEIC ANHYDRIDE ,
+      Methyl methacrylate,
+      NEOPENTYL GLYCOL,
+      PENTAERYTHRITOL,
+      PHENOL,
+      PHTHALIC ANHYDRIDE"
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# APPLICATION SETTINGS 
-########## DO NOT EDIT ############
-# Build settings
-markdown: kramdown
-permalink: pretty
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
