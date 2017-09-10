@@ -16,9 +16,7 @@ kramdown:
 title: Chemical Corp Pvt Ltd
 logo: /img/logo.png
 email: enquiry@chemcorp.in
-description: "DESCRIBE YOUR PRODUCT"
 enquiryemail: enquiry@chemcorp.in
-# enquiryemail: sujandt@gmail.com
 
 links:
   - title: About Us
@@ -57,7 +55,7 @@ people:
   pic: kshah
   position: Director,
 
-
+#INDUSTRIES POPUP
 industries:
   - title: PHARMACEUTICALS
     image: 'pharma.jpeg'
@@ -83,7 +81,7 @@ industries:
       TERTIARY BUTANOL,
       TETRAHYDROFURAN,
    ]
-  - title: Adhesives and Sealants
+  - title: ADHESIVES AND SEALANTS
     image: 'adhesive.jpeg'
     id: 2
     products: [ 
@@ -109,7 +107,7 @@ industries:
       TRIETHANOLAMINE 85,
       TRIMETHYLOL PROPANE,
     ]
-  - title: Paints and coatings
+  - title: PAINTS AND COATINGS
     image: 'paint.jpeg'
     id: 3
     products: [
@@ -136,7 +134,7 @@ industries:
       TETRAHYDROFURAN,
       TRIMETHYLOL PROPANE
     ]
-  - title: Agrochemicals
+  - title: AGROCHEMICALS
     image: 'agro.jpg'
     id: 4
     products: [
@@ -157,7 +155,7 @@ industries:
       TRICHLORO ETHYLENE ,
       TRIETHANOLAMINE 85,
     ]
-  - title: Fuel and fuel additives
+  - title: FUEL AND FUEL ADDITIVES
     image: 'fuel.jpg'
     id: 5
     products: [
@@ -165,7 +163,7 @@ industries:
       GLYCERIN -USP,
       TERTIARY BUTANOL
     ]
-  - title: Water Treatement
+  - title: WATER TREATEMENT
     image: 'water.jpeg'
     id: 6
     products: [
@@ -176,7 +174,7 @@ industries:
       HYDRAZINE HYDRATE,
       METHYL METHACRYLATE,
     ]
-  - title: inks, Dyes and Pigments
+  - title: INKS, DYES AND PIGMENTS
     image: 'ink.jpeg'
     id: 7
     products: [
@@ -194,7 +192,7 @@ industries:
       REFINED NAPHTHALENE, 
       TRIMETHYLOL PROPANE
     ]
-  - title: Lubricants
+  - title: LUBRICANTS
     image: 'lubricant.jpeg'
     id: 8
     products: [
@@ -207,7 +205,7 @@ industries:
       PENTAERYTHRITOL,
       TRIETHANOLAMINE 85
     ]
-  - title: Textiles
+  - title: TEXTILES
     image: 'textile.jpeg'
     id: 9
     products: [
@@ -225,7 +223,7 @@ industries:
       TRIETHANOLAMINE 85,
       TRIMETHYLOL PROPANE
     ]
-  - title: Resins
+  - title: RESINS
     image: 'resin.jpg'
     id: 10
     products: [
@@ -294,6 +292,9 @@ products:
   TRIETHYL ORTHOFORMATE,CHINA,122-51-0,190KGS,,
   TRIMETHYLOL PROPANE,SWEDEN,77-99-6,25KGS,,
 
+
+
+description: "DESCRIBE YOUR PRODUCT"
 
 keywords: "PHARMACEUTICALS,
       Adhesives and Sealants,
@@ -375,7 +376,8 @@ keywords: "PHARMACEUTICALS,
       NEOPENTYL GLYCOL,
       PENTAERYTHRITOL,
       PHENOL,
-      PHTHALIC ANHYDRIDE"
+      PHTHALIC ANHYDRIDE
+      "
 
 
 
