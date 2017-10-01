@@ -13,10 +13,10 @@ kramdown:
   enable_coderay: false
 #######################################
 
-title: Chemical Corp Pvt Ltd
+title: Trichem Laboratories (Bombay) Pvt. Ltd.
 logo: /img/logo.png
-email: enquiry@chemcorp.in
-enquiryemail: enquiry@chemcorp.in
+email: enquiry@trichem.in
+enquiryemail: enquiry@trichem.in
 #tagline: 'This is tag line </br>'
 links:
   - title: About Us

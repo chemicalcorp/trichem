@@ -1,1 +1,1 @@
-Chemical corp Pvt Ltd
+Trichem Laboratories (Bombay) Pvt. Ltd.
