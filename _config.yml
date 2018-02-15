@@ -1,7 +1,7 @@
 # APPLICATION SETTINGS 
 ########## DO NOT EDIT ############
 # Build settings
-baseurl: '/'
+baseurl: 
 # Site settings
 markdown: kramdown
 permalink: pretty
