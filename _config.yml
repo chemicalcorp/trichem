@@ -20,13 +20,6 @@ enquiryemail: enquiry@trichem.in
 #tagline: 'This is tag line </br>'
 links:
   - title: About Us
-    # sublinks:
-    #   - title: Introduction
-    #     path: /pages/aboutus/introduction
-    #   - title: Team
-    #     path: /pages/aboutus/team
-    #   - title: Vision
-    #     path: /pages/aboutus/vision
     id: aboutus
   - title: Team
     id: team  
